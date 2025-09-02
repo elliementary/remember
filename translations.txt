@@ -32,6 +32,15 @@ Nah
 translated by Your Name
 original in english
 
+ja
+日本語
+./ja.html
+日本語に切り替えますか?
+はい!
+戻る
+翻訳: ワトソン エレノア Eleanor Watson <a href="https://github.com/elliementary">elliementary</a>
+原文: 英語 original in <a href="https://ncase.me/remember">English</a>
+
 zh
 简体中文
 ./zh.html
